@@ -1,0 +1,55 @@
+/*CSS reset settings here*/
+
+
+#wrapper{
+ width: 880px;
+ height: 810px;
+ background-color: #66ffcc;
+ margin: 0px auto;
+ overflow: hidden;
+}
+
+#header{
+ height: 70px;
+ margin: 10px 10px 0px 10px;
+ padding: 15px 183px;
+ display: -webkit-inline-box;
+}
+
+#container { 
+/*	background-color: red;*/
+ width: 920px;
+ height: 780px;
+ margin: 5px 20px 20px 20px;
+}
+
+.image1 {
+	 height: 120px;
+ width: 120px;
+ border: 15px solid #66c2ff;
+ outline: 4px solid black;
+ margin: 5px 5px 9px 5px;
+}
+
+.image2 {
+ height: 120px;
+ width: 120px;
+ background-color: #ff8080;
+ border: 15px solid #ff8080;
+ outline: 4px solid black;
+ margin: 5px 5px 9px 5px;
+}
+
+.flex_container {
+ height: 750px;
+ width: 155px;
+ /*background-color: yellow;*/
+ display: inline-block;
+ margin: 6px;
+ float: left;
+}
+
+.header_image {
+	height: 80px;
+	width: 120px;
+}
